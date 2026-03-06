@@ -59,4 +59,4 @@ service.js - שכבת השירות המרכזת את כל הקריאות ל-API.
 App.js - הרכיב המרכזי של האפליקציה ב-React.
 
 ✍️ מוגש ע"י:
-[השם שלך] Full Stack Developer Student
+Tamar Wolpe Full Stack Developer Student
